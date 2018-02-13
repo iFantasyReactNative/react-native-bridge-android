@@ -1,0 +1,3 @@
+rootProject.name = 'ReactNativeToast'
+
+include ':app'
